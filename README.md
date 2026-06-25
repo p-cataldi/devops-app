@@ -73,4 +73,5 @@ protetto e non si tocca mai direttamente.
 - Jacopo Camplone
 - Bruno Barbieri
 - Pietro Cataldi
+- Pietro Ottaviano
 - _(aggiungi qui il tuo nome)_
